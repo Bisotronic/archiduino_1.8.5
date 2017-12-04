@@ -1,0 +1,17 @@
+#######################################
+# Syntax Coloring Map For ArchiduinoLCD
+#######################################
+
+LCD1284	KEYWORD1
+ArchiduinoLcdKeypad	KEYWORD1
+ArchiduinoLcd_PCF	KEYWORD1
+ArchiduinoLcd	KEYWORD1
+
+ledOff	KEYWORD2
+ledOn	KEYWORD2
+button	KEYWORD2
+
+_SELECT	LITERAL1
+_ENTER	LITERAL1
+_DOWN	LITERAL1
+_UP	LITERAL1

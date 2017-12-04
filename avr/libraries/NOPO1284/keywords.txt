@@ -1,0 +1,27 @@
+#######################################
+# Syntax Coloring Map For NOPO1284
+#######################################
+
+NOPO1284	KEYWORD1
+
+
+init	KEYWORD2
+on	KEYWORD2
+off	KEYWORD2
+status	KEYWORD2
+execute	KEYWORD2
+ControlOn	KEYWORD2
+ControlOff	KEYWORD2
+allOn	KEYWORD2
+allOff	KEYWORD2
+selOn	KEYWORD2
+revert	KEYWORD2
+
+REL_0	LITERAL1
+REL_1	LITERAL1
+REL_2	LITERAL1
+REL_3	LITERAL1
+REL_4	LITERAL1
+REL_5	LITERAL1
+LCD_6	LITERAL1
+REL_7	LITERAL1

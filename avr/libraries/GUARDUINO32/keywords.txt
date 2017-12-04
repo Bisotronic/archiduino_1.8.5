@@ -1,0 +1,38 @@
+#######################################
+# Syntax Coloring Map For GUARDUINO
+#######################################
+
+#######################################
+# Datatypes (KEYWORD1)
+#######################################
+
+Guarduino	KEYWORD1
+pinModeEx	KEYWORD1
+digitalWriteEx	KEYWORD1
+
+#######################################
+# Methods and Functions (KEYWORD2)
+#######################################
+
+#######################################
+# Constants (LITERAL1)
+#######################################
+
+LED_RUN	LITERAL1
+LCD_BKLIGHT	LITERAL1
+LCD_BUTTON	LITERAL1
+LED1	LITERAL1
+LED2	LITERAL1
+OPTO1	LITERAL1
+OPTO2	LITERAL1
+RELAY	LITERAL1
+RXD1	LITERAL1
+TXD1	LITERAL1
+ONEW1	LITERAL1
+ONEW2	LITERAL1
+LED1W	LITERAL1
+LED2W	LITERAL1
+BUZZ	LITERAL1
+BUTTON1	LITERAL1
+BUTTON2	LITERAL1
+CARD	LITERAL1
