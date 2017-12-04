@@ -1,3 +1,10 @@
+**What is Archiduino?**
+
+Archiduino is an universal modular controller. It means that if you have anything electrically driven, you can acquire its data and control it with Archiduino. Archiduino is FULLY compatible with Arduino IDE. In this repository you'll find every file you need to install Archiduino as a board in the Arduino IDE.
+
+Please read carefully this README. 
+
+
 **-------------------------------------------------------------------------------------------**
 
 **HOW TO SETUP THE ARCHIDUINO BOARDS ON ARDUINO IDE**
@@ -58,7 +65,7 @@
 
 **-------------------------------------------------------------------------------------------**
 
-**-------------------------------------------------------------------------------------------**
+
 
 ##What the FAQ is Archiduino?
 
