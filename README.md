@@ -17,12 +17,16 @@
 
 **-------------------------------------------------------------------------------------------**
 
+**NEW RELEASE NOTES: 04/12/2017**
+
+1) Added some libraries
+2) Tested with Arduino IDE 1.8.5
+
+
 **NEW RELEASE NOTES: 18/07/2017**
 
 1) Added GuardUino32 in boards.txt
-
 2) Some minor edit of RELAY1284.h
-
 3) Added GuardUino32 library
 
 
